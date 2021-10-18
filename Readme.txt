@@ -1,5 +1,5 @@
 
--------------------------------------------------Movie Management System----------------------------------------------------------------
+--------------------------------------------Movie Management System--------------------------------------------------------
 
 This program is a movie management system that works with MariaDB database system. Help the user to connect with the 
 database and perform the queries to excute the statement with a proper method. The method system provided are to add a 
