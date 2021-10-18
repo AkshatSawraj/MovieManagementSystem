@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"sait.mms.application","l":"appDriver"}];updateSearchResults();
